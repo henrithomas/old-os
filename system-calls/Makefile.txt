@@ -1,0 +1,8 @@
+all:
+	gcc -o myhead myhead.c
+	gcc -o read read1.c
+	gcc -o fread fread1.c
+	gcc -o popen popen.c
+	gcc -o access accessdb.c
+	gcc -o create createdb.c
+ 
